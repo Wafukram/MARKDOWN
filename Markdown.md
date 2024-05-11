@@ -116,4 +116,4 @@ Each vulnerability that has been found is thoroughly described in this report, a
 ## Conclusion
 Fujitsu should prioritize addressing the identified vulnerabilities promptly to enhance its overall security posture. By implementing the recommended measures, the company can better protect its data, systems, and reputation.
 
-**Signature:** [Lorzano, Ralph H.]  [Turiano, Fermin Jr. III]
+**Signature:** [Lorzano, Ralph H.]  [Turiano, Fermin Jr. III H.]
